@@ -162,7 +162,7 @@ function App() {
               <li className="timeline-entry">
                 <p className="timeline-year">2004</p>
                 <p>
-                  During the summer of 2004, Dr. Díaz, a renowned pediatrician from Houston,
+                  During the summer of 2004, Dr. Jesus Díaz, a renowned pediatrician from Houston,
                   Texas, and former professor at St. Joseph's Hospital, had the vision of creating
                   a program that would support international students in their academic
                   aspirations, promoting interdisciplinary and intercultural medicine.
@@ -283,7 +283,7 @@ function App() {
                 <p className="section-kicker"><span>02</span> Eligibility</p>
                 <h3>Who Can Apply</h3>
                 <ul className="scholarship-list">
-                  <li>IMOH members</li>
+                  <li>Current IMOH members</li>
                   <li>Serious interest in the USMLE pathway</li>
                   <li>Availability to study and take Step 1 during the indicated period</li>
                   <li>Ideally suited for students who have already decided to begin Step 1 preparation</li>
