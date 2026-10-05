@@ -83,8 +83,8 @@ function App() {
             </div>
             <img
               className="about-photo"
-              src="/images/IMG_8271.JPG"
-              alt="International Medical Observers of Houston students and participants"
+              src="/images/ipad.png"
+              alt="International Medical Observers of Houston"
               loading="lazy"
               decoding="async"
             />
@@ -145,9 +145,18 @@ function App() {
 
         <section className="history-section" id="history" aria-labelledby="history-title">
           <div className="history-inner">
-            <div className="section-heading history-heading">
-              <p className="section-kicker"><span>04</span> Our History</p>
-              <h2 id="history-title">Our History</h2>
+            <div className="history-heading-layout">
+              <div className="section-heading history-heading">
+                <p className="section-kicker"><span>04</span> Our History</p>
+                <h2 id="history-title">Our History</h2>
+              </div>
+              <img
+                className="history-portrait"
+                src="/images/mary.jpg"
+                alt="Mary Tello"
+                loading="lazy"
+                decoding="async"
+              />
             </div>
             <ol className="history-timeline">
               <li className="timeline-entry">
@@ -442,8 +451,8 @@ function App() {
               </div>
               <img
                 className="academic-image"
-                src="/images/pexels-gustavo-fring-3985154.jpg"
-                alt="Medical students reviewing academic materials"
+                src="/images/visual.png"
+                alt="Medical education at IMOH"
                 loading="lazy"
                 decoding="async"
               />
