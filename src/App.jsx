@@ -234,7 +234,7 @@ function App() {
               </div>
               <div className="programs-photo-placeholder">
                 <img
-                  src="/images/IMG_8270.JPG"
+                  src="/images/imoh2027.jpg"
                   alt="IMOH medical students and program participants"
                   loading="lazy"
                   decoding="async"
