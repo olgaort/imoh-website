@@ -38,6 +38,7 @@ function App() {
             <a href="#specialties" onClick={closeMenu}>Specialties</a>
             <a href="#admissions" onClick={closeMenu}>Admissions</a>
             <a href="#contact" onClick={closeMenu}>Contact</a>
+            <a className="button button-primary navigation-apply" href="https://forms.gle/v4FA1itabMNCV5Ve6" target="_blank" rel="noopener noreferrer" onClick={closeMenu}>Apply Now</a>
           </nav>
         </div>
       </header>
@@ -448,6 +449,9 @@ function App() {
                   and graduates seeking to strengthen their clinical, academic, and research
                   experience in an international medical environment.
                 </p>
+                <a className="button button-primary admissions-apply-button" href="https://forms.gle/v4FA1itabMNCV5Ve6" target="_blank" rel="noopener noreferrer">
+                  Apply to IMOH
+                </a>
               </div>
               <img
                 className="academic-image"
